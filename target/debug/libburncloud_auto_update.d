@@ -1,0 +1,1 @@
+C:\Users\huang\Work\burncloud\burncloud-auto-update\target\debug\libburncloud_auto_update.rlib: C:\Users\huang\Work\burncloud\burncloud-auto-update\src\config.rs C:\Users\huang\Work\burncloud\burncloud-auto-update\src\error.rs C:\Users\huang\Work\burncloud\burncloud-auto-update\src\lib.rs C:\Users\huang\Work\burncloud\burncloud-auto-update\src\updater.rs

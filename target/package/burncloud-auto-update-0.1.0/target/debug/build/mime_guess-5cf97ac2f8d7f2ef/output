@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=C:\Users\huang\Work\burncloud\burncloud-auto-update\target\package/burncloud-auto-update-0.1.0\target\debug\build\mime_guess-5cf97ac2f8d7f2ef\out\mime_types_generated.rs

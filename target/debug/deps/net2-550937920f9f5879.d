@@ -1,0 +1,12 @@
+C:\Users\huang\Work\burncloud-auto-update\target\debug\deps\net2-550937920f9f5879.d: C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\lib.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\tcp.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\udp.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\socket.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\ext.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\utils.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\sys\windows\mod.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\sys\windows\impls.rs
+
+C:\Users\huang\Work\burncloud-auto-update\target\debug\deps\libnet2-550937920f9f5879.rmeta: C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\lib.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\tcp.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\udp.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\socket.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\ext.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\utils.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\sys\windows\mod.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\sys\windows\impls.rs
+
+C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\lib.rs:
+C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\tcp.rs:
+C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\udp.rs:
+C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\socket.rs:
+C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\ext.rs:
+C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\utils.rs:
+C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\sys\windows\mod.rs:
+C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\net2-0.2.39\src\sys\windows\impls.rs:

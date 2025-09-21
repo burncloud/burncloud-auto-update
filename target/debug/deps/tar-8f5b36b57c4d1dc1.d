@@ -1,0 +1,12 @@
+C:\Users\huang\Work\burncloud-auto-update\target\debug\deps\tar-8f5b36b57c4d1dc1.d: C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\lib.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\archive.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\builder.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\entry.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\entry_type.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\error.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\header.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\pax.rs
+
+C:\Users\huang\Work\burncloud-auto-update\target\debug\deps\libtar-8f5b36b57c4d1dc1.rmeta: C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\lib.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\archive.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\builder.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\entry.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\entry_type.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\error.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\header.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\pax.rs
+
+C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\lib.rs:
+C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\archive.rs:
+C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\builder.rs:
+C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\entry.rs:
+C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\entry_type.rs:
+C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\error.rs:
+C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\header.rs:
+C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tar-0.4.44\src\pax.rs:

@@ -1,0 +1,10 @@
+C:\Users\huang\Work\burncloud-auto-update\target\debug\deps\crossbeam_queue-2d049c5b6b93bbad.d: C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crossbeam-queue-0.2.3\src\lib.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crossbeam-queue-0.2.3\src\array_queue.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crossbeam-queue-0.2.3\src\err.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crossbeam-queue-0.2.3\src\seg_queue.rs
+
+C:\Users\huang\Work\burncloud-auto-update\target\debug\deps\libcrossbeam_queue-2d049c5b6b93bbad.rlib: C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crossbeam-queue-0.2.3\src\lib.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crossbeam-queue-0.2.3\src\array_queue.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crossbeam-queue-0.2.3\src\err.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crossbeam-queue-0.2.3\src\seg_queue.rs
+
+C:\Users\huang\Work\burncloud-auto-update\target\debug\deps\libcrossbeam_queue-2d049c5b6b93bbad.rmeta: C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crossbeam-queue-0.2.3\src\lib.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crossbeam-queue-0.2.3\src\array_queue.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crossbeam-queue-0.2.3\src\err.rs C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crossbeam-queue-0.2.3\src\seg_queue.rs
+
+C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crossbeam-queue-0.2.3\src\lib.rs:
+C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crossbeam-queue-0.2.3\src\array_queue.rs:
+C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crossbeam-queue-0.2.3\src\err.rs:
+C:\Users\huang\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crossbeam-queue-0.2.3\src\seg_queue.rs:
