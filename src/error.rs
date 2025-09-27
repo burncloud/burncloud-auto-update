@@ -17,6 +17,8 @@ pub enum UpdateError {
     Permission(String),
     /// 配置错误
     Configuration(String),
+    /// 其他错误
+    Other(String),
     /// 未知错误
     Unknown(String),
 }
@@ -30,6 +32,7 @@ impl fmt::Display for UpdateError {
             UpdateError::FileSystem(msg) => write!(f, "文件系统错误: {}", msg),
             UpdateError::Permission(msg) => write!(f, "权限错误: {}", msg),
             UpdateError::Configuration(msg) => write!(f, "配置错误: {}", msg),
+            UpdateError::Other(msg) => write!(f, "其他错误: {}", msg),
             UpdateError::Unknown(msg) => write!(f, "未知错误: {}", msg),
         }
     }
